@@ -1,0 +1,3 @@
+[submodule "test"]
+	path = test
+	url = ssh://git@github.com/ojechev-broadsoft/test.git
